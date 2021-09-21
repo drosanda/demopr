@@ -2,10 +2,10 @@
 
 Here is example for pull request demonstration
 
-#feature 2 consist of this
+#Feature 2 consist of this
 
 this is feature 2
 
-#feature 3
+#Feature 3
 
 underconstruction
