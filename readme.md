@@ -1,11 +1,11 @@
 #Pull Request Demo
 
-Here is example for pull request demonstration
+Here is example for pull request demonstration.
 
 #Feature 2 consist of this
 
-this is feature 2
+This is feature 2 of lorem lipsum.
 
 #Feature 3
 
-underconstruction
+Feature 3 on dev.
