@@ -12,3 +12,6 @@ underconstruction
 
 #Feature A
 is coming! on
+
+#Feature B
+Is on planning right now!
